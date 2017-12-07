@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241393948969",
+    "firebase_url": "https://demodbfirebase1.firebaseio.com",
+    "project_id": "demodbfirebase1",
+    "storage_bucket": "demodbfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241393948969:android:a3f26b49def1ecc1",
+        "android_client_info": {
+          "package_name": "com.chintan.demodbfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241393948969-vp9lnb8ejjhbirrnr94kae8098o118ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chintan.demodbfirebase",
+            "certificate_hash": "f7c97b1cb55f9944f27e415aac862e3590f76973"
+          }
+        },
+        {
+          "client_id": "241393948969-ulc3519rt75i1h86k9tkumh4lm2juc36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnwEIGClagl9cjlIjfTWMMHD02jo6utM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241393948969-ulc3519rt75i1h86k9tkumh4lm2juc36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
